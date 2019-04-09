@@ -1,0 +1,5 @@
+http://www.youxiake.com/lines/list?code=cn
+http://www.youxiake.com/lines/list?code=cn&month=0&day=0&days=0&price=0&place=0&tag=0&class_id=0&gts=&gte=&p=2
+http://www.youxiake.com/lines/list?code=cn&month=0&day=0&days=0&price=0&place=0&tag=0&class_id=0&gts=&gte=&p=3
+http://www.youxiake.com/lines/list?code=cn&month=0&day=0&days=0&price=0&place=0&tag=0&class_id=0&gts=&gte=&p=4
+http://www.youxiake.com/lines/list?code=cn&month=0&day=0&days=0&price=0&place=0&tag=0&class_id=0&gts=&gte=&p=5
